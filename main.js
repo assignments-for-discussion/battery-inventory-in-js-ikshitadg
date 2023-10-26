@@ -1,5 +1,4 @@
 const assert = require('assert');
-const { error } = require('console');
 
 function countBatteriesByHealth(presentCapacities) {
   const ratedCapacity = 120; // Rated capacity of a new battery
